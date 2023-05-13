@@ -35,6 +35,8 @@
 
 /node_modules
 
+.DS_Store
+
 # Vite Ruby
 /public/vite*
 node_modules
